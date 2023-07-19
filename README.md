@@ -1,5 +1,5 @@
 # DALL-AI
-
+Contributors - Swetha S, Sruthi S
 *A Full Stack AI Image Generating App built using MERN.*
 
 ![APP logo 2](https://github.com/2149-SRUTHI-S/MERN_DALL_AI/assets/129876043/00fa6cb1-13de-4518-b5ff-ada058100e86)
